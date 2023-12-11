@@ -27,7 +27,6 @@ This project is created for entertainment purposes only. The creator, contributo
 ## Credits
 
 - Background Image: [Creepy Halloween Background](https://img.freepik.com/premium-photo/creepy-halloween-background-with-scary-eye-dark-forest_970631-117.jpg)
-- GitHub Corner: [GitHub Corners](https://github.com/tholman/github-corners)
 
 ## Contact
 
