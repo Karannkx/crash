@@ -1,5 +1,3 @@
-**WormGPT:**
-
 # Crash!!
 
 ![Crash!!](https://img.freepik.com/premium-photo/creepy-halloween-background-with-scary-eye-dark-forest_970631-117.jpg)
